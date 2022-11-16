@@ -43,6 +43,20 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'>
+  <iframe width="600" height="250" src="//player.bilibili.com/player.html?aid=58778425&bvid=BV1Yt41157Lb&cid=102484154&page=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" > </iframe>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
