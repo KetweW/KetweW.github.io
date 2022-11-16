@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lai wei</div><video src="movie.mp4.mp4" controls="controls" width="500" height="300"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lai wei</div><iframe width="500" height="300" src="https://www.youtube.com/embed/829_bvowYNo" title="传奇数学家张益唐和孪生素数猜：潦倒半生，58岁迎来人生转折" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/829_bvowYNo" title="传奇数学家张益唐和孪生素数猜：潦倒半生，58岁迎来人生转折" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
