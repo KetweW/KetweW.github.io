@@ -30,8 +30,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-<video src="movie.mp4.mp4" controls="controls" width="500" height="300"></video>
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -41,6 +39,8 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/829_bvowYNo" title="传奇数学家张益唐和孪生素数猜：潦倒半生，58岁迎来人生转折" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
