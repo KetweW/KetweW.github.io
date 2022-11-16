@@ -28,9 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
+<div class='paper-box'><div class='paper-box-image'>
   <iframe width="500" height="300" src="https://www.youtube.com/embed/829_bvowYNo" title="传奇数学家张益唐和孪生素数猜：潦倒半生，58岁迎来人生转折" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div></div>
+  </div>
 
 <div class='paper-box-text' markdown="1">
 
